@@ -2,7 +2,8 @@
 Implementación de reporte mensual con procedimientos almacenados con parámetros con SSIS.
 
 <b>1.</b> Creamos un nuevo paquete SSIS Packages el cuál llamaremos <b>Reporte con procedimiento almacenado con parametros</b>
-<b>2.</b> En la base de datos NORTHWND crearemos un Procedimiento Almacenado para ejecutar una consulta con dos variables (Fecha Inicial y Fecha Final)
+
+<b>2.</b> En la base de datos NORTHWND crearemos un Procedimiento Almacenado para ejecutar una consulta con dos variables (Fecha Inicial y Fecha Final). Estos parámetros serán solo el año YYYY
 
 ```Ruby
 CREATE PROCEDURE sp_ReporteEnvioClientes
