@@ -29,3 +29,9 @@ FROM     Customers INNER JOIN
 WHERE DATEPART(YYYY, Orders.OrderDate)>= @FechaIni AND DATEPART(YYYY, Orders.OrderDate)<= @Fechafin
 GO
 ```
+<b>3.</b> Inicialmente crearemos las variables que vamos a utilizar. En este caso las de FechaIni, FechaFin, y la variable que va a guardar la expresión de la ejecución del SP.
+```"EXECUTE sp_ReporteEnvioClientes "+ (DT_WSTR, 4) @[User::FechaIni] + ", " + (DT_WSTR, 4) @[User::FechaFin]```
+
+<p align="center">
+<img src="https://github.com/csantamaria89/CargaIncremental-SSIS/blob/main/assets/Imagen1.png"  height=450>
+</p>
