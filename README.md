@@ -1,0 +1,2 @@
+# Reporte_con_procedimiento_Almacenado_con_Parametro
+Implementación de reporte mensual con procedimientos almacenados con parámetros con SSIS
