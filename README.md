@@ -33,5 +33,11 @@ GO
 ```"EXECUTE sp_ReporteEnvioClientes "+ (DT_WSTR, 4) @[User::FechaIni] + ", " + (DT_WSTR, 4) @[User::FechaFin]```
 
 <p align="center">
-<img src="https://github.com/csantamaria89/CargaIncremental-SSIS/blob/main/assets/Imagen1.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen1.png"  height=450>
+</p>
+
+<b>4.</b> Ahora en el ControlFlow arrastramos un Data Flow Task el cual llamaremos Reporte con parametro. Hacemos doble clic y agregamos un OLE DB Source. Configuramos la conexión con la DB NORTHWND, seleccionamos SQL commandfrom variable y agregamos la variable que tiene guardad la ejecución del SP:
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen2.png"  height=450>
 </p>
