@@ -41,3 +41,9 @@ GO
 <p align="center">
 <img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen2.png"  height=450>
 </p>
+
+<b>5.</b> Creamos un Flat File Destination, que es el archivo de texto donde vamos a alojar el reporte.
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen3.png"  height=450>
+</p>
