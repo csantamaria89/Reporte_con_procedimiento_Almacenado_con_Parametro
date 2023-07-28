@@ -47,3 +47,10 @@ GO
 <p align="center">
 <img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen3.png"  height=450>
 </p>
+
+<b>6.</b> En las siguientes imagenes se muestra el paso a paso para deployar nuestro proyecto:
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen4.png"  height=450>
+	<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen5.png"  height=450>
+</p>
