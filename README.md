@@ -62,9 +62,11 @@ GO
 </p>
 
 <b>6.</b> Podemos ejecutar el reporte directamente del SQL Service Manager y ver que efectivamente esta generando el archivo de texto con el reporte.
+
 <p align="center">
 <img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen12.png"  height=450>
 </p>
+
 <b>7.</b> Ahora se crearan dos variables tipo parametro en el proyecto "FechaIni y FechaFin" esto con el fin de poder ingresar los años por demanda
 
 <p align="center">
