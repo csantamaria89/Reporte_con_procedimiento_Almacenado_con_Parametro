@@ -52,5 +52,11 @@ GO
 
 <p align="center">
 <img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen4.png"  height=450>
-	<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen5.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen5.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen6.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen7.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen8.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen9.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen10.png"  height=450>
+<img src="https://github.com/csantamaria89/Reporte_con_procedimiento_Almacenado_con_Parametro/blob/main/assets/Imagen11.png"  height=450>
 </p>
